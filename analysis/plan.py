@@ -18,8 +18,8 @@ import matplotlib.dates as mdates
 import numpy as np
 import pandas as pd
 
-matplotlib.rcParams["font.family"] = ["SimHei", "Arial Unicode MS", "sans-serif"]
-matplotlib.rcParams["axes.unicode_minus"] = False
+import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).parent.parent))
+from analysis._font import setup as _setup_font; _setup_font()
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 REPORTS_DIR = Path(__file__).parent.parent / "reports"

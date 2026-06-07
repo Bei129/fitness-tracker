@@ -15,8 +15,11 @@ from pathlib import Path
 import requests
 
 API_BASE = "https://trains.xunjiapp.cn"
+_api_key = os.environ.get("XUNJI_API_KEY", "")
+if not _api_key:
+    raise RuntimeError("请设置环境变量 XUNJI_API_KEY，例如：export XUNJI_API_KEY=xjllm_xxx")
 HEADERS = {
-    "Authorization": f"Bearer {os.environ.get('XUNJI_API_KEY', 'xjllm_04ee0e8043e87a919bb5c1efc7a697b9be2d329a53c205a7')}",
+    "Authorization": f"Bearer {_api_key}",
     "Content-Type": "application/json",
 }
 DATA_DIR = Path(__file__).parent / "data" / "workouts"
