@@ -1,0 +1,872 @@
+[
+  {
+    "localid": 1762200301692,
+    "datestr": "2025-11-02",
+    "title": "步行",
+    "note": "",
+    "start": 1762122341043,
+    "end": 1762123625919,
+    "started_at": 1762122341043,
+    "ended_at": 1762123625919,
+    "movements": [
+      {
+        "index": 1,
+        "name": "Walking",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1284,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "1.13",
+              "calories": "54",
+              "workoutTime": "1284.8756741285324"
+            },
+            "distance": "1.13",
+            "calories": "54",
+            "workoutTime": "1284.8756741285324",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1762211868810,
+    "datestr": "2025-11-03",
+    "title": "步行",
+    "note": "",
+    "start": 1762203717268,
+    "end": 1762204922400,
+    "started_at": 1762203717268,
+    "ended_at": 1762204922400,
+    "movements": [
+      {
+        "index": 1,
+        "name": "Walking",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1205,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "1.17",
+              "calories": "59",
+              "workoutTime": "1205.1320024728775"
+            },
+            "distance": "1.17",
+            "calories": "59",
+            "workoutTime": "1205.1320024728775",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1763332787047,
+    "datestr": "2025-11-16",
+    "title": "爬楼梯",
+    "note": "",
+    "start": 1763332015681,
+    "end": 1763332615911,
+    "started_at": 1763332015681,
+    "ended_at": 1763332615911,
+    "movements": [
+      {
+        "index": 1,
+        "name": "AppleHealthWorkout",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 600,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "0.00",
+              "calories": "65",
+              "workoutTime": "600.2299690246582"
+            },
+            "distance": "0.00",
+            "calories": "65",
+            "workoutTime": "600.2299690246582",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1763675926079,
+    "datestr": "2025-11-17",
+    "title": "爬楼梯",
+    "note": "",
+    "start": 1763416168517,
+    "end": 1763417069733,
+    "started_at": 1763416168517,
+    "ended_at": 1763417069733,
+    "movements": [
+      {
+        "index": 1,
+        "name": "AppleHealthWorkout",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 901,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "0.00",
+              "calories": "108",
+              "workoutTime": "901.2153840065002"
+            },
+            "distance": "0.00",
+            "calories": "108",
+            "workoutTime": "901.2153840065002",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1763675924578,
+    "datestr": "2025-11-18",
+    "title": "爬楼梯",
+    "note": "",
+    "start": 1763503692422,
+    "end": 1763504894550,
+    "started_at": 1763503692422,
+    "ended_at": 1763504894550,
+    "movements": [
+      {
+        "index": 1,
+        "name": "AppleHealthWorkout",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1202,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "0.00",
+              "calories": "125",
+              "workoutTime": "1202.1280680894852"
+            },
+            "distance": "0.00",
+            "calories": "125",
+            "workoutTime": "1202.1280680894852",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1763675922634,
+    "datestr": "2025-11-19",
+    "title": "爬楼梯",
+    "note": "",
+    "start": 1763591415290,
+    "end": 1763591594457,
+    "started_at": 1763591415290,
+    "ended_at": 1763591594457,
+    "movements": [
+      {
+        "index": 1,
+        "name": "AppleHealthWorkout",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 179,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "0.00",
+              "calories": "23",
+              "workoutTime": "179.16676199436188"
+            },
+            "distance": "0.00",
+            "calories": "23",
+            "workoutTime": "179.16676199436188",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1763675949096,
+    "datestr": "2025-11-20",
+    "title": "腿·肩",
+    "note": "",
+    "start": 1763675949781,
+    "end": 1763679080460,
+    "started_at": 1763675949781,
+    "ended_at": 1763679080460,
+    "movements": [
+      {
+        "index": 1,
+        "name": "腿举",
+        "type": "腿",
+        "exetype": "",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "180",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 0,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "180",
+            "restSeconds": 60
+          },
+          {
+            "index": 2,
+            "done": true,
+            "weight": "180",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "180",
+            "restSeconds": 60
+          },
+          {
+            "index": 3,
+            "done": true,
+            "weight": "180",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "180",
+            "restSeconds": 60
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      },
+      {
+        "index": 2,
+        "name": "坐姿腿屈伸",
+        "type": "",
+        "exetype": "",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "150",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "150",
+            "restSeconds": 90
+          },
+          {
+            "index": 2,
+            "done": true,
+            "weight": "150",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "150",
+            "restSeconds": 90
+          },
+          {
+            "index": 3,
+            "done": true,
+            "weight": "150",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "150",
+            "restSeconds": 90
+          },
+          {
+            "index": 4,
+            "done": true,
+            "weight": "150",
+            "unit": "lbs",
+            "reps": "9",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "150",
+            "restSeconds": 90
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      },
+      {
+        "index": 3,
+        "name": "腿弯举",
+        "type": "",
+        "exetype": "",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "110",
+            "unit": "lbs",
+            "reps": "8",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "110",
+            "restSeconds": 60
+          },
+          {
+            "index": 2,
+            "done": true,
+            "weight": "110",
+            "unit": "lbs",
+            "reps": "8",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "110",
+            "restSeconds": 60
+          },
+          {
+            "index": 3,
+            "done": true,
+            "weight": "110",
+            "unit": "lbs",
+            "reps": "8",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "110",
+            "restSeconds": 60
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      },
+      {
+        "index": 4,
+        "name": "站姿杠铃推举",
+        "type": "",
+        "exetype": "",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "20",
+            "unit": "lbs",
+            "reps": "10",
+            "time": 47,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "热",
+            "restSeconds": 90
+          },
+          {
+            "index": 2,
+            "done": true,
+            "weight": "35",
+            "unit": "lbs",
+            "reps": "8",
+            "time": 30,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "热",
+            "restSeconds": 90
+          },
+          {
+            "index": 3,
+            "done": true,
+            "weight": "45",
+            "unit": "lbs",
+            "reps": "5",
+            "time": 0,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "热",
+            "restSeconds": 90
+          },
+          {
+            "index": 4,
+            "done": true,
+            "weight": "75",
+            "unit": "lbs",
+            "reps": "8",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "restSeconds": 90
+          },
+          {
+            "index": 5,
+            "done": true,
+            "weight": "75",
+            "unit": "lbs",
+            "reps": "6",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "restSeconds": 90
+          },
+          {
+            "index": 6,
+            "done": true,
+            "weight": "75",
+            "unit": "lbs",
+            "reps": "8",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "restSeconds": 90
+          },
+          {
+            "index": 7,
+            "done": true,
+            "weight": "75",
+            "unit": "lbs",
+            "reps": "5",
+            "time": 90,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "restSeconds": 90
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      },
+      {
+        "index": 5,
+        "name": "侧平举",
+        "type": "",
+        "exetype": "",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "20",
+            "unit": "lbs",
+            "reps": "12",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "20",
+            "restSeconds": 60
+          },
+          {
+            "index": 2,
+            "done": true,
+            "weight": "20",
+            "unit": "lbs",
+            "reps": "12",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "20",
+            "restSeconds": 60
+          },
+          {
+            "index": 3,
+            "done": true,
+            "weight": "20",
+            "unit": "lbs",
+            "reps": "12",
+            "time": 60,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "20",
+            "restSeconds": 60
+          }
+        ],
+        "truncated": false,
+        "note": "",
+        "singleSide": true
+      },
+      {
+        "index": 6,
+        "name": "俯身飞鸟",
+        "type": "",
+        "exetype": "",
+        "sets": [
+          {
+            "index": 1,
+            "done": false,
+            "weight": "7.5",
+            "unit": "lbs",
+            "reps": "20",
+            "time": 0,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "7.5",
+            "restSeconds": 60
+          },
+          {
+            "index": 2,
+            "done": false,
+            "weight": "7.5",
+            "unit": "lbs",
+            "reps": "20",
+            "time": 0,
+            "timeLabel": "",
+            "selfWeight": false,
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": "",
+            "leftWeight": "7.5",
+            "restSeconds": 60
+          }
+        ],
+        "truncated": false,
+        "note": "",
+        "singleSide": true
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1764106106519,
+    "datestr": "2025-11-23",
+    "title": "步行",
+    "note": "",
+    "start": 1763937683903,
+    "end": 1763938920070,
+    "started_at": 1763937683903,
+    "ended_at": 1763938920070,
+    "movements": [
+      {
+        "index": 1,
+        "name": "Walking",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1236,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "1.12",
+              "calories": "52",
+              "workoutTime": "1236.1670849323273"
+            },
+            "distance": "1.12",
+            "calories": "52",
+            "workoutTime": "1236.1670849323273",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1764212035091,
+    "datestr": "2025-11-25",
+    "title": "爬楼梯",
+    "note": "",
+    "start": 1764108717826,
+    "end": 1764109919108,
+    "started_at": 1764108717826,
+    "ended_at": 1764109919108,
+    "movements": [
+      {
+        "index": 1,
+        "name": "AppleHealthWorkout",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1201,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "0.00",
+              "calories": "143",
+              "workoutTime": "1201.28189599514"
+            },
+            "distance": "0.00",
+            "calories": "143",
+            "workoutTime": "1201.28189599514",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1764212033712,
+    "datestr": "2025-11-26",
+    "title": "步行",
+    "note": "",
+    "start": 1764203721731,
+    "end": 1764205192001,
+    "started_at": 1764203721731,
+    "ended_at": 1764205192001,
+    "movements": [
+      {
+        "index": 1,
+        "name": "Walking",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1470,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "1.40",
+              "calories": "69",
+              "workoutTime": "1470.269870519638"
+            },
+            "distance": "1.40",
+            "calories": "69",
+            "workoutTime": "1470.269870519638",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  },
+  {
+    "localid": 1764461954093,
+    "datestr": "2025-11-27",
+    "title": "步行",
+    "note": "",
+    "start": 1764304440447,
+    "end": 1764306205768,
+    "started_at": 1764304440447,
+    "ended_at": 1764306205768,
+    "movements": [
+      {
+        "index": 1,
+        "name": "Walking",
+        "type": "",
+        "exetype": "cardio",
+        "sets": [
+          {
+            "index": 1,
+            "done": true,
+            "weight": "",
+            "unit": "",
+            "reps": "",
+            "time": 1765,
+            "timeLabel": "",
+            "selfWeight": false,
+            "metrics": {
+              "distance": "1.75",
+              "calories": "92",
+              "workoutTime": "1765.321475982666"
+            },
+            "distance": "1.75",
+            "calories": "92",
+            "workoutTime": "1765.321475982666",
+            "rpe": "",
+            "note": "",
+            "comment": "",
+            "setType": ""
+          }
+        ],
+        "truncated": false,
+        "note": ""
+      }
+    ],
+    "truncated": false
+  }
+]
