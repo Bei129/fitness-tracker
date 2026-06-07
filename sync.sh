@@ -28,6 +28,21 @@ python3 -c "import requests" 2>/dev/null || {
 MODE="today"
 HEALTH_ZIP=""
 
+# ── API Key 检查 ───────────────────────────────────────
+if [[ -z "$XUNJI_API_KEY" ]]; then
+  # 尝试从 .env 加载
+  [[ -f "$REPO_DIR/.env" ]] && source "$REPO_DIR/.env"
+fi
+if [[ -z "$XUNJI_API_KEY" ]] && [[ "$MODE" != "health" ]]; then
+  red "未设置 XUNJI_API_KEY"
+  yellow "请在 ~/.zshrc 中添加："
+  yellow "  export XUNJI_API_KEY=xjllm_xxx"
+  yellow "或在仓库根目录创建 .env 文件（已被 .gitignore 忽略）："
+  yellow "  echo 'XUNJI_API_KEY=xjllm_xxx' > .env"
+  exit 1
+fi
+export XUNJI_API_KEY
+
 while [[ $# -gt 0 ]]; do
   case $1 in
     --month) MODE="month"; MONTH="$2"; shift 2 ;;
