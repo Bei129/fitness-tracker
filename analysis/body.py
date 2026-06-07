@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
 
-matplotlib.rcParams["font.family"] = ["SimHei", "Arial Unicode MS", "sans-serif"]
+matplotlib.rcParams["font.family"] = ["Noto Sans CJK JP", "SimHei", "Arial Unicode MS", "sans-serif"]
 matplotlib.rcParams["axes.unicode_minus"] = False
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "body"
