@@ -48,7 +48,7 @@ def fetch_day(datestr: str, full: bool = False) -> dict:
     )
     LAST_REQUEST[datestr] = time.time()
     data = resp.json()
-    if not data.get("success"):
+    if "res" not in data:
         raise RuntimeError(f"API 错误：{data}")
     CACHE[datestr] = data["res"]
     return data["res"]
