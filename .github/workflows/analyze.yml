@@ -1,0 +1,38 @@
+name: 生成分析图表
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装字体
+        run: sudo apt-get install -y fonts-noto-cjk
+
+      - name: 安装 Python 依赖
+        run: pip install pandas matplotlib numpy
+
+      - name: 生成综合报告图表
+        run: python analysis/comprehensive_report.py
+
+      - name: 生成身体数据图表
+        run: python analysis/body.py --all
+        continue-on-error: true
+
+      - name: 提交图表
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git diff --cached --quiet && echo "no changes" || git commit -m "reports: auto-generate charts [skip ci]"
+          git push

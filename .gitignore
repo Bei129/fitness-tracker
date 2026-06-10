@@ -10,10 +10,8 @@ build/
 .venv/
 venv/
 
-# 生成的报告图表（运行时生成，不纳入版本控制）
-reports/*.png
-reports/*.pdf
-reports/*.html
+# 报告图表由 GitHub Actions 自动生成并提交
+# reports/*.png
 
 # 本地配置
 .env
